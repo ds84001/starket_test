@@ -1,2 +1,3 @@
 # starket_test
-some basic starknet contracts written in cairo
+some basic starknet contracts 
+that are written in cairo
