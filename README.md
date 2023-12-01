@@ -1,2 +1,2 @@
 # starket_test
-some basic contracts
+some basic starknet contracts
