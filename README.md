@@ -1,2 +1,2 @@
 # starket_test
-two contracts
+some basic contracts
